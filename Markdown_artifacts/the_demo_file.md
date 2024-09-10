@@ -108,6 +108,15 @@ if you end the line with a return
     > is a blockquote in line with its item.  
     > "Do reproducable research."
 
+## Checklists
+
+- [x] Checklists
+- [a] Have
+- [ ] A
+- [ ] Special
+    - [ ] Struct-
+    - [ ] ure
+
 # Code-blocks
 
 Be careful with  
