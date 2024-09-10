@@ -7,3 +7,5 @@ My research concerns the adaptation of self-organizing-maps (SOMs) to the contin
     This directory contains individual `.tex` files, or `.zip` files for **Overleaf** projects.
 - Code_artifacts:
     This directory contains the source-code and support documentation for the neural networks I've developed.
+- Markdown_artifacts:
+    This directory contains Markdown documents which do not soley belong to LaTeX and source-code development activities. Project managment documents reside here.
