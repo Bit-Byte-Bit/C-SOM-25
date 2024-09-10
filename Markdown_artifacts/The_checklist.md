@@ -1,5 +1,5 @@
 # Motivations.
-This checklist is a living way of organizing project requirements in an easy to read an organized way. The procedural checklists advocated by Atul Gawande in *The Checklist Manifesto* are not preciely what we have here, which is closer to the "to-do list", but we include his advocacy nevertheless.
+This checklist is a living way of tracking project requirements in an easy to read an organized way. The procedural checklists advocated by Atul Gawande in *The Checklist Manifesto* are not preciely what we have here, which is closer to the "to-do list", but we include his advocacy nevertheless.
 
 > "Checklists are great, becasue they stop you worrying. you put your to do list on a dead tree, and not it worries; then all you need to do is look at it" - Anonymous
 >
