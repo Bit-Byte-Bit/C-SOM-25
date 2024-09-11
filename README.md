@@ -13,4 +13,4 @@ My research concerns the adaptation of self-organizing-maps (SOMs) to the contin
 ## License
 
 This work is goverened by the [Attribution-Sharealike International Deed](https://creativecommons.org/licenses/by-sa/4.0/).
-![CC_license_image]([https://creativecommons.org/licenses/by-sa/4.0/](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png))
+![CC_license_image](/resources/by-sa.png)
