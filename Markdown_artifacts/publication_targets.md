@@ -8,6 +8,7 @@ Online presentation an option.
 CFP - Dec 03, 2024
 - [ACSOS](https://2024.acsos.org/)
 (next iteration would be targeted)
-
+- [SSCI](https://ieee-ssci.org/)
+(next iteration would be targeted)
 ## Journals
 - To Be Filled
