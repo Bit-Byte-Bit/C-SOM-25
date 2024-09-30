@@ -15,3 +15,9 @@ Relocating is quite disruptive, all the minutia of life, once automatic and sort
 2. Compose and add to the list of target models. The proposal names several target models, but I must read more to complete the list and defend the cut-off points.
 
 3. Establish a regular update schedule. Updates are communications, to ourselves and others, they are used to track progress, but such tracking must be frequent to be valuable. We will target weekly updates here.
+
+---
+
+## 2024/09/30
+
+Work will require a familiarity with both **Docker** and **Git**. This is fortuitous as these technologies are core to my development for this project. I will soon be able to set my schedule at work as expected, which will facilitate a full return to the project as planned.
