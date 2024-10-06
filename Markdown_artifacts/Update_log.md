@@ -39,3 +39,4 @@ Work will require a familiarity with both **Docker** and **Git**. This is fortui
     - Subsections of chapter 7
     - Chapters [8-16]
 - We've opted into a high nutrient density, low volume meal-plan that should minimize the time spent in food-prep and eating, leaving more time for project work.
+- We've stabalized a schedule that will facilitae ***~33.5 hrs a week*** deveoted to the dissertation, though the week of 2024/10/07 will be disrupted due to new-employee training reseduled due to hurricane Helen.
