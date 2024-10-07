@@ -24,7 +24,7 @@ Work will require a familiarity with both **Docker** and **Git**. This is fortui
 
 ---
 
-## 2024/09/06
+## 2024/10/06
 
 ### Development:
 - To take advantage of the significant parallelism inherent in SOMs, GoLang has been selected as the language in which the project will be implemented.
@@ -40,3 +40,15 @@ Work will require a familiarity with both **Docker** and **Git**. This is fortui
     - Chapters [8-16]
 - We've opted into a high nutrient density, low volume meal-plan that should minimize the time spent in food-prep and eating, leaving more time for project work.
 - We've stabalized a schedule that will facilitae ***~33.5 hrs a week*** deveoted to the dissertation, though the week of 2024/10/07 will be disrupted due to new-employee training reseduled due to hurricane Helen.
+
+## 2024/10/07
+
+### Git:
+
+Today we're practicing with git in preperation for the migration to gitlabs.
+This obviously does not advance the state of the art, but will make managing the project easier and more professional.
+Version control, and tests, are essential for any large software project, such as the C-SOM-25 library.
+We've also taken this opportunity to correct a few typos in this very log file, and to add this entry.
+
+
+

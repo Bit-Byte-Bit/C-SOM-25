@@ -1,0 +1,8 @@
+#Ignore any .txt files with the name affix "_ign"
+*_ign.txt
+
+#UNLESS they have an "atnd" in their name.
+!*atnd*
+
+#Ignore all .txt files in the markdown artifacts directory, and in any of its subdirectories
+Markdown_artifacts/**/*.txt
