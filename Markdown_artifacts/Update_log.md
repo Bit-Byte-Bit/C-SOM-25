@@ -50,5 +50,7 @@ This obviously does not advance the state of the art, but will make managing the
 Version control, and tests, are essential for any large software project, such as the C-SOM-25 library.
 We've also taken this opportunity to correct a few typos in this very log file, and to add this entry.
 
+## 2024/10/17
 
+In the past 10 days we've been coming up to speed on comand-line proficiencies. On their face these have little to do with scientific research, into the SOM or much else, but they are friction reducers. Just as git makes managing the source code of a project more frictionless, so too with command-line and linux proficiency. If ones goal is to research the SOM as a continuous learning model, then "managment" is all that which surrounds the target activities. The boundary between target act and managment is fuzzy, naturally, but it isn't imaginary. Becoming fluent in managment skills alows them to be auotmated, to an extent. When these skills are lacking, then there is "friction".
 
